@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: microservice-user
+    name: microservice-user 
   datasource:
     url: jdbc:mysql://localhost:3307/MicroServiceUser?characterEncoding=UTF8
     driver-class-name: com.mysql.cj.jdbc.Driver
